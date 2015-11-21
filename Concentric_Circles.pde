@@ -77,6 +77,10 @@ void setup(){
   }
 }
 
+void fillUpCircleMasks(){
+  
+}
+
 //should take in bigass raw image, 
 //should return an image width desiredWidth, and proportional height
 PImage resizeRawImage(PImage rawImage, int desiredWidth){
